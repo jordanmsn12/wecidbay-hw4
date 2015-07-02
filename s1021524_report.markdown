@@ -1,5 +1,5 @@
 
-ose coupling
+loose coupling
 ===================
 1021524范祐銘
 
